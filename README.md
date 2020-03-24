@@ -9,3 +9,8 @@ This comparison will report following things:
 # Platform
 OS: Linux
 Programming Language: Python 2.7.9
+
+# Owner and License
+NO LICENSE
+Feel free to use it in any way.
+Author email id: san.singhsanjay@gmail.com
